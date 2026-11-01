@@ -9,7 +9,7 @@
 
 ## AetherOS
 
-- 官网：<https://aether.cbnac.com/>
+- 官网：<https://aether.cbnac.com/>`n- 博客：<https://blog.cbnac.com/blog/>
 - 源码：<https://github.com/qwert702/AetherOS>
 - 文档入口：<https://github.com/qwert702/AetherOS/blob/main/docs/README.md>
 - 下载：<https://github.com/qwert702/AetherOS/releases/tag/v0.1.1>
